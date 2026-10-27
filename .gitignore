@@ -1,0 +1,8 @@
+build/
+spfs.obj
+spfs.lib
+spfs.exp
+spfs.sys
+*.pdb
+*.user
+.vs/
